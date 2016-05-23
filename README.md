@@ -1,0 +1,1 @@
+# idea.inspired.core
